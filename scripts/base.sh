@@ -20,7 +20,10 @@ ca-certificates \
 gnupg \
 software-properties-common \
 build-essential \
-openssh-client
+openssh-client \
+tree \
+neofetch \
+cowsay
 
 
 echo "Base packages installed"

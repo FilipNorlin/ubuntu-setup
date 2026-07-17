@@ -12,13 +12,14 @@ chmod +x $SCRIPT_DIR/scripts/*.sh
 
 
 source $SCRIPT_DIR/scripts/base.sh
-source $SCRIPT_DIR/scripts/directories.sh
+#source $SCRIPT_DIR/scripts/directories.sh
 source $SCRIPT_DIR/scripts/terminal.sh
 source $SCRIPT_DIR/scripts/development.sh
 source $SCRIPT_DIR/scripts/docker.sh
 source $SCRIPT_DIR/scripts/vscode.sh
-source $SCRIPT_DIR/scripts/kicad.sh
+#source $SCRIPT_DIR/scripts/kicad.sh
 source $SCRIPT_DIR/scripts/electronics.sh
+source $SCRIPT_DIR/scripts/terminal_theme.sh
 
 
 echo ""
