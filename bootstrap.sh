@@ -19,6 +19,8 @@ source $SCRIPT_DIR/scripts/docker.sh
 source $SCRIPT_DIR/scripts/vscode.sh
 #source $SCRIPT_DIR/scripts/kicad.sh
 source $SCRIPT_DIR/scripts/electronics.sh
+source $SCRIPT_DIR/scripts/terminal_tools.sh
+source $SCRIPT_DIR/scripts/fonts.sh
 source $SCRIPT_DIR/scripts/terminal_theme.sh
 
 
